@@ -1,2 +1,2 @@
 # JenkinsDemo
-Cole's Jenkins Demo
+Jenkins Demo
